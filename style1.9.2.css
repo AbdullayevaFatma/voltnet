@@ -638,7 +638,6 @@ main{
 
 .price-container {
   width: 100%;
-  min-height: 100vh;
   padding: 4rem;
   display: flex;
   justify-content: center;
